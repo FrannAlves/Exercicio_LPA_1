@@ -1,4 +1,4 @@
-# Exercicios_LPA
+# Exercicio_LPA
 
 
 
