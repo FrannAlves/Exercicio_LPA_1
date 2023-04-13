@@ -4,13 +4,10 @@
 
 Imagina-se que você é um dos programadores responsáveis pela construção de app de vendas para uma determinada empresa X que vende em atacado. Uma das estratégias de vendas dessa empresa X é dar desconto maiores por unidade conforme a tabela abaixo:
 
-Quantidades                                                     Desconto
-                                                               
-Até 4                                                         0% na unidade
-Entre 5 e 19                                                  3% na unidade
-Entre 20 e 99                                                 6% na unidade
-Maior ou igual a 100                                          10% na unidade
-
+Até 4 unidades, 0% de desconto.                                 
+Entre 5 e 19 unidades, 3% de desconto.                                               
+Entre 20 e 99, 6% de desconto.                                                 
+Maior ou igual a 100 unidades 10% de desconto.                                       
 
 Elabore um programa em Python que:
 
